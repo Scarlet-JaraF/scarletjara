@@ -8,7 +8,7 @@ body {
 
 .container {
     width: 80%;
-    heigth: 100vh;
+    height: 100vh;
     padding: 20px;
     border: 1cm solid #04211c;
     margin: 2in auto;
@@ -20,3 +20,4 @@ body {
     font-size: 12pt;
     border: 2mm dashed #c9d21d;
 }
+
