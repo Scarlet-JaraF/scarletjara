@@ -21,3 +21,7 @@ body {
     border: 2mm dashed #c9d21d;
 }
 
+p {
+color: #FF0000;
+font-size: 24px;
+} 
