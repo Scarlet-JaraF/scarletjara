@@ -1,4 +1,4 @@
-html {
+/* html {
     font-size: 16px;
 }
 
@@ -19,9 +19,17 @@ body {
     height: 5em;
     font-size: 12pt;
     border: 2mm dashed #c9d21d;
+} */
+ 
+ .classy {
+background-color: DodgerBlue;
 }
 
 p {
-color: #FF0000;
+color: #0e9799;
 font-size: 24px;
 } 
+
+#identified {
+background-color: skyblue;
+}
