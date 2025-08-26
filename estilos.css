@@ -25,9 +25,21 @@ body {
 background-color: DodgerBlue;
 }
 
+.img-pequena {
+  max-width: 100px;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+.img-mediana {
+  max-width: 350px;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
 
 p {
-
 color: #0e9799;
 font-size: 24px;
 } 
