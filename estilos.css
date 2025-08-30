@@ -47,3 +47,17 @@ font-size: 24px;
 #identified {
 background-color: skyblue;
 }
+
+.titulo-principal {
+  font-family: 'Story Script' cursive;
+}
+
+.story-script-regular {
+  text-align: center;
+  font-size: 80px;
+  color: #2eb797;
+  font-family: "Story Script", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  letter-spacing: 4px;
+}
